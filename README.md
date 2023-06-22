@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: ... I have no Software experience, everything is off the rip this summer. We're leaning into it.
 
-On a personal note; I will be providing a heroku [link](https://ej-portfolio-449d5d5f01b6.herokuapp.com/) shortly to angle traffic to a personal website.
+On a personal note; I will be providing a heroku [link](https://ej-portfolio-449d5d5f01b6.herokuapp.com/) shortly to angle traffic to a personal website. Pleasently enough, I only needed a simple static react page. 
 
 I'll update it from time to time, and add more things to it as time goes on. I think a Time line would be cool.. but that's a me problem.<br>
