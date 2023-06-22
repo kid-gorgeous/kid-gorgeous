@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 
 ⚡ Fun fact: ... I have no Software experience, everything is off the rip this summer. We're leaning into it.
+
+On a personal note; I will be providing a heroku [link]() shortly to angle traffic to a personal website.
