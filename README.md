@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning how to prepare, design, and optimize Machine Learning Models.
+🔭 I’m currently working on understanding K-Mean Clusters, Sigularity Mappings, and Local Embeddings.
+👯 I’m looking to collaborate on new and ongoing AI trends.
+
+
+⚡ Fun fact: ... I have no Software experience, everything is off the rip this summer. We're leaning into it.
