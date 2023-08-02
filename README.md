@@ -15,18 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 🌱 I’m currently learning how to prepare, design, and optimize Machine Learning Models.<br>
-🔭 I’m currently working on understanding K-Mean Clusters, Sigularity Mappings, and Local Embeddings.<br>
 👯 I’m looking to collaborate on new and ongoing AI trends.<br>
 
-
-⚡ Fun fact: ... I have no Software experience, everything is off the rip this summer. We're leaning into it.
-
-On a personal note; I will be providing a heroku [link](https://ej-portfolio-449d5d5f01b6.herokuapp.com/) shortly to angle traffic to a personal website. Pleasently enough, I only needed a simple static react page. 
-
-I'll update it from time to time, and add more things to it as time goes on. I think a Time line would be cool.. but that's a me problem.<br>
-
-I wanted to keep most of what I do on here though. Committing to what Im focused on. I will work to provide concurrent abstracts with up to date manusripts of attention models, transformers, and fine "tunements"(?)
-<br>
-
-Not, sure but who know yet?
