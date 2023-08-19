@@ -40,5 +40,6 @@ I will probably maintain these respositories.
 
 ---
 
-Heaven help me if I retire from NASA someday. 
+Heaven help me if I retire from NASA someda but for roght now, Im working part-time developing software of my own. Employment is scarce since Im still in college so Im working to support my curiosity of culinary cuisines and culture. 
 
+My favorite fast food meal is a burger with Cheese Curds.. Its flavorade for pulmonary problems, but albeit it's best Slammed out Royale with Chees that you can find west of the Mississippi.. 😮‍💨
