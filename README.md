@@ -32,12 +32,12 @@ my invested adventurous ideas. Venture Capitalism is not for me.
 🤔 Unique Subdomains unavaliablely avaliable kindof hidden out there:
 - Todos: The average todo app; but it allows for easy time management via sms, cmdl args, and app choices
 - homeAI: TBA, TBD
+- ... 
 
 Maybe this will excite you about my GitHub page. There's a lot todo, and until I succumb to boredom
 I will probably maintain these respositories.
 
 🔭 Future Endeavors:
-
 ---
 
-Waking up before 8am. 
+Waking up before 8am. Learning how to watch the birds, walk the burbs, and miss those curbs.
