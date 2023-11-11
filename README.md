@@ -15,23 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🌱 I’m currently learning how to prepare, design, and optimize Machine Learning Models.<br>
 👯 I’m looking to collaborate on new and ongoing AI trends.<br>
+🤔 I'm still exploring and curious about cool applets, software, and computer architecture!<br>
 
 You've found my page, and I find that exciting.. Please connect with me! I'm graduating soon and 
 I'm realigning my life goals and career choices. But let's be real, I'm 
 from small town USA; I don't expect to become MJ overnight... Below I'll list my goals, and you'll
 read them and tell me they're impossible. However, I will list them in hopes that you will agree with
-my invested adventurous ideas. Venture Capitalism is not for me. 
+my erroneous adventurous ideas. 
 
 💬 Production Builds uniquely avaliable somewhere out there: 
 - "TradeAI": A knowledgable application that may assist with short-term, and long-term financial investments.
 - My website: ejdev.com (Check it out, it's basically me. Let me know how to change it).
 
-🤔 Unique Subdomains unavaliablely avaliable kindof hidden out there:
-- Todos: The average todo app; but it allows for easy time management via sms, cmdl args, and app choices
+🤔 Unique ideas that are unavaliablely avaliable kindof hidden out there:
+- TradeAI: somewhere easy to find
 - homeAI: TBA, TBD
+- "Project Whiteboard": School project that I'm building
 - ... 
 
 Maybe this will excite you about my GitHub page. There's a lot todo, and until I succumb to boredom
