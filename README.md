@@ -41,4 +41,4 @@ I will probably maintain these respositories.
 🔭 Future Endeavors:
 ---
 
-Waking up before 8am. Learning how to watch the birds, walk the burbs, and miss those curbs.
+Taking a seat.
