@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 <br>
 ⚡ I’m looking for help with just about everything else/ But, man do I really want to live my life. 
 <br>
+<br>
 You've found my page, and I find that exciting, but please mind my privacy.. Please connect with me 
 if you most certainly need to! But let's be real, I'm from small town USA; and you don't expect anything from me. 
+<br>
 <br>
 💬 Production Builds uniquely avaliable somewhere out there: 
 - "TradeAI": A knowledgable application that may assist with short-term, and long-term financial investments.
 - My website: ejdev.com (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
+<br>
 <br>
 🔭 Unique ideas that are unavaliablely avaliable kindof hidden out there somewhere:
 - TradeAI: somewhere easy to find
@@ -34,7 +37,9 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 - "Project Deture and Desist": School project for senior design
 - ... 
 <br>
+<br>
 📫 How to reach me: (ill work this out later, but i think i included my email on my website)
+<br>
 <br>
 🔭 Future Endeavors:
 ---
