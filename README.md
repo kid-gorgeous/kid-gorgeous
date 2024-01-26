@@ -15,29 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning how to prepare, design, and optimize Machine Learning Models.<br>
-👯 I’m looking to collaborate on new and ongoing AI trends.<br>
+🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
+👯 I’m looking for collaborattion, and new and state-of-the-art AI trends.<br>
 🤔 I'm still exploring and curious about cool applets, software, and computer architecture!<br>
-
-You've found my page, and I find that exciting.. Please connect with me! I'm graduating soon and 
-I'm realigning my life goals and career choices. But let's be real, I'm 
-from small town USA; I don't expect to become MJ overnight... Below I'll list my goals, and you'll
-read them and tell me they're impossible. However, I will list them in hopes that you will agree with
-my erroneous adventurous ideas. 
-
+<br>
+⚡ I’m looking for help with just about everything else/ But, man do I really want to live my life. 
+<br>
+You've found my page, and I find that exciting, but please mind my privacy.. Please connect with me 
+if you most certainly need to! But let's be real, I'm from small town USA; and you don't expect anything from me. 
+<br>
 💬 Production Builds uniquely avaliable somewhere out there: 
 - "TradeAI": A knowledgable application that may assist with short-term, and long-term financial investments.
-- My website: ejdev.com (Check it out, it's basically me. Let me know how to change it).
-
-🤔 Unique ideas that are unavaliablely avaliable kindof hidden out there:
+- My website: ejdev.com (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
+<br>
+🔭 Unique ideas that are unavaliablely avaliable kindof hidden out there somewhere:
 - TradeAI: somewhere easy to find
-- homeAI: TBA, TBD
-- "Project Whiteboard": School project that I'm building
+- homeAI: TBA
+- "Project Deture and Desist": School project for senior design
 - ... 
-
-Maybe this will excite you about my GitHub page. There's a lot todo, and until I succumb to boredom
-I will probably maintain these respositories.
-
+<br>
+📫 How to reach me: (ill work this out later, but i think i included my email on my website)
+<br>
 🔭 Future Endeavors:
 ---
 
