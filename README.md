@@ -42,6 +42,5 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 <br>
 🔭 Future Endeavors:
----
+Nothing I guess
 
-Taking a seat.
