@@ -26,7 +26,8 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 <br>
 💬 Production Builds uniquely avaliable somewhere out there: 
-- "TradeAI": A knowledgable application that may assist with short-term, and long-term financial investments.
+- "Trader": A knowledgable application that may assist with short-term, and long-term financial investments. It leverages
+  <t>  cutting edge time forcasting predictions, and malleable strategy writers
 - My website: ejdev.com (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
 <br>
 🔭 Unique ideas that are unavaliablely avaliable kindof hidden out there somewhere:
