@@ -20,11 +20,10 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 - My website: _ (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
 <br>
 - HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines.
-- "Project Deture and Desist": School project for senior design
-- ... 
 <br>
 📫 How to reach me: (ill work this out later, but i think i included my email on my website)
-🎒 Software salutations
+<br>
+🎒 Software salutations, please feel free to buy me coffee :link
 <br>
 
 
