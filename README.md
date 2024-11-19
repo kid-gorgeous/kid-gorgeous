@@ -1,19 +1,8 @@
-### Hi there 👋
+### ✨ the kid gorgeous ✨
 
-<!--
-**kid-gorgeous/kid-gorgeous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, you've found my private github. You may not use this for educational use. 
+If you intend to use any of this projects for future use please email me, the creator, 
+via my website. 
 
 🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
 👯 I’m looking for collaborattion, and new and state-of-the-art AI trends.<br>
@@ -28,16 +17,14 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 💬 Production Builds uniquely avaliable somewhere out there: 
 - "Trader": A knowledgable application that may assist with short-term, and long-term financial investments. It leverages
   <t>  cutting edge time forcasting predictions, and malleable strategy writers
-- My website: ejdev.com (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
+- My website: _ (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
 <br>
-🔭 Unique ideas that are unavaliablely avaliable kindof hidden out there somewhere:
-- TradeAI: somewhere easy to find
-- homeAI: TBA
+- HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines.
 - "Project Deture and Desist": School project for senior design
 - ... 
 <br>
 📫 How to reach me: (ill work this out later, but i think i included my email on my website)
+🎒 Software salutations
 <br>
-🔭 Future Endeavors:
-Nothing I guess
+
 
