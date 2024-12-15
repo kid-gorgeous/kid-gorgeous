@@ -5,16 +5,16 @@ My daily stack: <br>
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,docker,git,vscode)](https://skillicons.dev)
 <br>
 Web frameworks and Languages: <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react)]
+[![My Frameworks](https://skillicons.dev/icons?i=aws,azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react,selenium,sass,tailwind)](https://skillicons.dev)
 <br>
 Machine Learning and AI Stack: <br>
-[![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode)]
+[![My ML AI Stack](https://skillicons.dev/icons?i=apple,aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode)](https://skillicons.dev)
 <br>
 Operating Systems: <br>
-[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=3)]
+[![My Operating Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows)](https://skillicons.dev)
 <br>
 Programming Languages: <br>
-[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=5)]
+[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dotnet,haskell,java,js,mysql,php,py,rust,swift&perline=6)](https://skillicons.dev)
 
 🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
 👯 I’m looking for collaborattion, and new and state-of-the-art AI trends.<br>
