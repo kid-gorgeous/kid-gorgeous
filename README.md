@@ -15,7 +15,7 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 
 ## Machine Learning and AI Stack: <br>
-[![My ML AI Stack](https://skillicons.dev/icons?i=aws,docker,graphql,mysql,obsidian,pytorch,sqlite,sklearn,tensorflow&perline=5)](https://skillicons.dev)
+[![My ML AI Stack](https://skillicons.dev/icons?i=aws,docker,graphql,mysql,obsidian,pytorch,sqlite,sklearn,tensorflow,vscode&perline=5)](https://skillicons.dev)
 <br>
 
 ### Web frameworks and Languages: <br>
