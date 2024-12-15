@@ -31,20 +31,13 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 [![My Operating Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows)](https://skillicons.dev)
 <br>
 
-💬 Production Builds uniquely avaliable somewhere out there: 
-- "Trader": A knowledgable application that may assist with short-term, and long-term financial investments. It leverages cutting edge time forcasting predictions, and malleable strategy writers
-- My website: (Check it out, it's basically me. Let me know how to change it but I dont want it to look any better).
-<br>
+💬 Maintained Platforms: 
+- "Trader": A knowledgable application that may assist with short-term, and long-term financial investments. It leverages cutting edge time forcasting predictions, and malleable strategy writers yet to be released
+- My website: Check it out, it's basically me. Let me know how to change it but I dont want it to look any better, it was the first time using heroku. 
 - HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines.
-<br>
 
+<hr>
 📫 How to reach me: <br>
 [![Contacts](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
 <br>
-
-(ill work this out later, but i think i included my email on my website)
-<br>
-🎒 Software salutations, please feel free to buy me coffee :link
-<br>
-
 
