@@ -1,6 +1,10 @@
 ## ✨ the kid gorgeous ✨
-[![My Gif](https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif)](https://github.com)
-
+<!-- [![My Gif](https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif)](https://github.com) -->
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif" alt="My Gif">
+  </a>
+</p>
 <br>
 Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows. I like to tinker around with ML enviornments and providing fast and simple cloud operations.
 
