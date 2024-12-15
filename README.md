@@ -10,7 +10,7 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 <hr>
 
-#### My daily stack includes: <br>
+## Daily stack includes: <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,obsidian,vscode)](https://skillicons.dev)
 <br>
 <br>
