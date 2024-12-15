@@ -1,20 +1,20 @@
 ### ✨ the kid gorgeous ✨
-Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows.
+Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows. I like to tinker around with ML enviornments and providing fast and simple cloud operations.
 <br>
 
-## My daily stack: <br>
+### My daily stack: <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,vscode)](https://skillicons.dev)
 <br>
-## Web frameworks and Languages: <br>
+### Web frameworks and Languages: <br>
 [![My Frameworks](https://skillicons.dev/icons?i=azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react,selenium,sass,tailwind)](https://skillicons.dev)
 <br>
-## Machine Learning and AI Stack: <br>
+### Machine Learning and AI Stack: <br>
 [![My ML AI Stack](https://skillicons.dev/icons?i=aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode)](https://skillicons.dev)
 <br>
-## Operating Systems: <br>
+### Operating Systems: <br>
 [![My Operating Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows)](https://skillicons.dev)
 <br>
-## Programming Languages: <br>
+### Programming Languages: <br>
 [![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dotnet,haskell,java,js,mysql,php,py,rust,swift&perline=6)](https://skillicons.dev)
 
 🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
