@@ -39,9 +39,9 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 💬 Maintained Platforms: 
 - "Trader": A knowledgable application that may assist with short-term, and long-term financial investments. It leverages cutting edge time forcasting predictions, and malleable strategy writers yet to be released
 - My website: Check it out, it's basically me. Let me know how to change it but I dont want it to look any better, it was the first time using heroku. 
-- HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines.
-
+- HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines
 <hr>
+
 📫 How to reach me: <br>
 [![Contacts](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
 <br>
