@@ -1,5 +1,5 @@
 ## ✨ the kid gorgeous ✨
-[![My Gif]()]
+[![My Gif](https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif)]
 
 <br>
 Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows. I like to tinker around with ML enviornments and providing fast and simple cloud operations.
