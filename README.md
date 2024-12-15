@@ -38,7 +38,7 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 - HomeAI: A dedicated application used to assist you in your everyday life. Focused on user create user based routines.
 <br>
 
-📫 How to reach me:
+📫 How to reach me: <br>
 [![Contacts](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
 <br>
 
