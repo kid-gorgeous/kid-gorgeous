@@ -1,8 +1,20 @@
 ### ✨ the kid gorgeous ✨
 
-Hello, you've found my private github. You may not use this for educational use. 
-If you intend to use any of this projects for future use please email me, the creator, 
-via my website. 
+Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows.
+My daily stack: <br>
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,docker,git,vscode)](https://skillicons.dev)
+<br>
+Web frameworks and Languages: <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react&perline=4)]
+<br>
+Machine Learning and AI Stack: <br>
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode&perline=5)]
+<br>
+Operating Systems: <br>
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=3)]
+<br>
+Programming Languages: <br>
+[![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=5)]
 
 🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
 👯 I’m looking for collaborattion, and new and state-of-the-art AI trends.<br>
