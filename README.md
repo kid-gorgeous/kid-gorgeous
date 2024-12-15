@@ -14,7 +14,7 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 <br>
 
-## Machine Learning and AI Stack: <br>
+### Machine Learning and AI Stack: <br>
 [![My ML AI Stack](https://skillicons.dev/icons?i=aws,docker,graphql,mysql,obsidian,pytorch,sqlite,sklearn,tensorflow,vscode&perline=5)](https://skillicons.dev)
 <br>
 
@@ -26,7 +26,7 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 [![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dotnet,haskell,java,js,mysql,php,py,rust,swift&perline=7)](https://skillicons.dev)
 <br>
 
-### Operating Systems: <br>
+#### Operating Systems: <br>
 [![My Operating Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows)](https://skillicons.dev)
 <br>
 
