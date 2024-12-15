@@ -5,10 +5,10 @@ My daily stack: <br>
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,docker,git,vscode)](https://skillicons.dev)
 <br>
 Web frameworks and Languages: <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react&perline=4)]
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react)]
 <br>
 Machine Learning and AI Stack: <br>
-[![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode&perline=5)]
+[![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode)]
 <br>
 Operating Systems: <br>
 [![My Skills](https://skillicons.dev/icons?i=apple,ubuntu,windows&perline=3)]
