@@ -8,7 +8,6 @@ Hello, you've found my kindof private github. I try to provide small things week
 You've found my page, and I find that exciting, but please mind my privacy.. Please connect with me 
 if you most certainly need to! But let's be real, I'm from small town USA; and you don't expect anything from me. 
 <br>
-<hr>
 
 ## Daily stack includes: <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,obsidian,vscode)](https://skillicons.dev)
