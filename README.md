@@ -1,4 +1,7 @@
 ## ✨ the kid gorgeous ✨
+[![My Gif]()]
+
+<br>
 Hello, you've found my kindof private github. I try to provide small things weekly that help me and my workflows. I like to tinker around with ML enviornments and providing fast and simple cloud operations.
 
 🌱 I’m currently learning how to implement, design, and deploy work AI models<br>
