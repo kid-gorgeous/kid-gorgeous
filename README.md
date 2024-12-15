@@ -6,10 +6,10 @@ Hello, you've found my kindof private github. I try to provide small things week
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,vscode)](https://skillicons.dev)
 <br>
 ### Web frameworks and Languages: <br>
-[![My Frameworks](https://skillicons.dev/icons?i=azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react,selenium,sass,tailwind)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react,selenium,sass,tailwind&perline=8)](https://skillicons.dev)
 <br>
 ### Machine Learning and AI Stack: <br>
-[![My ML AI Stack](https://skillicons.dev/icons?i=aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode)](https://skillicons.dev)
+[![My ML AI Stack](https://skillicons.dev/icons?i=aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode&perline=6)](https://skillicons.dev)
 <br>
 ### Operating Systems: <br>
 [![My Operating Systems](https://skillicons.dev/icons?i=apple,ubuntu,windows)](https://skillicons.dev)
