@@ -1,5 +1,4 @@
 ## ✨ the kid gorgeous ✨
-<!-- [![My Gif](https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif)](https://github.com) -->
 <p align="center">
   <a href="https://github.com">
     <img src="https://github.com/kid-gorgeous/kid-gorgeous/blob/main/imgs/fighterjets.gif" alt="My Gif">
