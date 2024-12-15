@@ -14,16 +14,16 @@ if you most certainly need to! But let's be real, I'm from small town USA; and y
 <br>
 <br>
 
+## Machine Learning and AI Stack: <br>
+[![My ML AI Stack](https://skillicons.dev/icons?i=aws,docker,graphql,mysql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode&perline=5)](https://skillicons.dev)
+<br>
+
 ### Web frameworks and Languages: <br>
 [![My Frameworks](https://skillicons.dev/icons?i=azure,css,django,fastapi,flask,heroku,html,js,md,materialui,mongodb,mysql,php,postman,react,selenium,sass,tailwind&perline=9)](https://skillicons.dev)
 <br>
 
 ### Programming Languages: <br>
-[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dotnet,haskell,java,js,mysql,php,py,rust,swift&perline=6)](https://skillicons.dev)
-<br>
-
-### Machine Learning and AI Stack: <br>
-[![My ML AI Stack](https://skillicons.dev/icons?i=aws,bash,docker,graphql,obsidian,pytorch,sqlite,sklearn,tensorflow,vim,vscode&perline=6)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,dotnet,haskell,java,js,mysql,php,py,rust,swift&perline=7)](https://skillicons.dev)
 <br>
 
 ### Operating Systems: <br>
